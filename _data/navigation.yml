@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Research"
-    url: https://virtualdatalab.github.io/VDL_website/research
+    url: /research/
   - title: "Teaching"
-    url: https://virtualdatalab.github.io/VDL_website/teaching
+    url: /teaching/
   - title: "People"
-    url: https://virtualdatalab.github.io/VDL_website/people
+    url: /people/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
