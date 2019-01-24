@@ -9,7 +9,7 @@ author_profile: false
 
 ### Sage Boettcher
 
-![people Logo](/assets/images/people_small.png) | add some information
+![people Logo](/assets/images/user.png) | add some information
 ----------------------------------------------- | --------------------
 
 
@@ -18,19 +18,22 @@ author_profile: false
 
 ### Dejan Draschkow
 
-add some information
+![people Logo](/assets/images/user.png) | add some information
+----------------------------------------------- | --------------------
 
 ***
 
 ### Jona Sassenhagen 
 
-add some information
+![people Logo](/assets/images/user.png) | add some information
+----------------------------------------------- | --------------------
 
 ***
 
 ### Martin Schulze
 
-add some information
+![people Logo](/assets/images/user.png) | add some information
+----------------------------------------------- | --------------------
 
 
 ***
@@ -40,4 +43,10 @@ add some information
 
 #### Aylin Kallmayer
 
+![people Logo](/assets/images/user.png) | add some information
+----------------------------------------------- | --------------------
+
 #### Leah Kumle
+
+![people Logo](/assets/images/user.png) | add some information
+----------------------------------------------- | --------------------
