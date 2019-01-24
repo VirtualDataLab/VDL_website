@@ -13,4 +13,4 @@ feature_row:
 ---
 
 
-{% include feature_row %}
+{% include feature_row type = "left" %}
