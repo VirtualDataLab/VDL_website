@@ -9,7 +9,7 @@ author_profile: false
 
 ### Sage Boettcher
 
-![people Logo](/assets/images/user.png) | add some information
+<img src="/assets/imgages/people.png"> | add some information
 ----------------------------------------------- | --------------------
 
 
