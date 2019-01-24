@@ -1,9 +1,9 @@
 ---
-layout: splash
-title: "Teaching"
+layout: single
+title: "Smobsc"
 header:
   image: /assets/images/header.png
-permalink: /teaching/smobsc
+permalink: /teaching/smobsc/
 author_profile: false
 ---
 
