@@ -10,9 +10,9 @@ author_profile: false
 ### Sage Boettcher
 
 ![people Logo](/assets/images/people_small.png) | add some information
------------- | -------------
+----------------------------------------------- | --------------------
 
-add some information
+
 
 ***
 
