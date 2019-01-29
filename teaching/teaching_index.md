@@ -18,7 +18,7 @@ feature_row2:
     alt: "MNE Python"
     title: "Core contributions to MNE-Python"
     excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/VDL_website/research/mnepython/"
+    url: "https://virtualdatalab.github.io/VDL_website/teaching/mnepython/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -26,7 +26,7 @@ feature_row3:
     alt: "eyEdu"
     title: "eyeEdu"
     excerpt: "An open library for teaching visualization and analyzing eye tracking data"
-    url: "https://virtualdatalab.github.io/VDL_website/research/eyEdu/"
+    url: "https://virtualdatalab.github.io/VDL_website/teaching/eyEdu/"
     btn_label: "Read More"
     btn_class: "btn--primary
 feature_row4:
@@ -34,7 +34,7 @@ feature_row4:
     alt: "workshops"
     title: "Workshops"
     excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/VDL_website/research/openlectures/"
+    url: "https://virtualdatalab.github.io/VDL_website/teaching/openlectures/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
@@ -42,7 +42,7 @@ feature_row5:
     alt: "open lectures"
     title: "Open lectures"
     excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/VDL_website/research/openlectures/"
+    url: "https://virtualdatalab.github.io/VDL_website/teaching/openlectures/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
