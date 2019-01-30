@@ -7,5 +7,9 @@ permalink: /teaching/eyEdu/
 author_profile: false
 ---
 
+##eyEdu: an open library for teaching visualization and analyzing eye tracking data
 
-hi this is about eyEdu
+Korinth, S., & Draschkow, D. (in prep). eyEdu: an open library for teaching visualization and analyzing eye tracking data
+
+
+[More information and materials](https://github.com/SebastianKorinth/eyEdu)
