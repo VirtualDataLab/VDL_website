@@ -4,10 +4,10 @@ header:
   image: /assets/images/header.png
 layout: single
 permalink: /people/
-author_profile: true
+author_profile: false
 ---
 
-# People
+
 
 ### Principle Investigators
 
