@@ -10,21 +10,21 @@ feature_row:
     alt: "smobsc"
     title: "Scientific Methods for Open Behavioral, Social and Cognitive Sciences"
     excerpt: " bla bla what this is about bla bla ksdugvksvgksjgvksfgjksagvkjdavkjdavbfkjk"
-    url: "https://virtualdatalab.github.io/VDL_website/teaching/smobsc/"
+    url: "https://virtualdatalab.github.io/teaching/smobsc/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/user2.png
     alt: "MNE Python"
     title: "Core contributions to MNE-Python"
     excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/VDL_website/teaching/mnepython/"
+    url: "https://virtualdatalab.github.io/teaching/mnepython/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/user2.png
     alt: "eyEdu"
     title: "eyEdu"
     excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/VDL_website/teaching/eyEdu/"
+    url: "https://virtualdatalab.github.io/teaching/eyEdu/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
@@ -32,7 +32,7 @@ feature_row2:
     alt: "mixedmodels"
     title: "Advanced mixed-models with R"
     excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/VDL_website/teaching/workshopmixedmodels/"
+    url: "https://virtualdatalab.github.io/teaching/workshopmixedmodels/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/user2.png
@@ -46,7 +46,7 @@ feature_row2:
     alt: "open lectures"
     title: "Open lectures"
     excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/VDL_website/teaching/openlectures/"
+    url: "https://virtualdatalab.github.io/teaching/openlectures/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
