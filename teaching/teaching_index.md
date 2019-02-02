@@ -39,7 +39,7 @@ feature_row2:
     alt: "open science workshops"
     title: "Open Science Workshops"
     excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/VDL_website/teaching/workshopopenscience/"
+    url: "https://virtualdatalab.github.io/teaching/workshopopenscience/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/user2.png
