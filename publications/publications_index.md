@@ -45,6 +45,4 @@ Sassenhagen, J. (2018). How to analyse electrophysiological responses to natural
 
 ## 2016
 
-Sassenhagen, J., and Alday, P. M. (2016). A common misapplication of statistical inference: Nuisance control with null-hypothesis significance tests. _Brain and Language_,162, 42-45
-
-[Download](https://www.sciencedirect.com/science/article/pii/S0093934X16300323)
+Sassenhagen, J., and Alday, P. M. (2016). A common misapplication of statistical inference: Nuisance control with null-hypothesis significance tests. _Brain and Language_,162, 42-45 [Download](https://www.sciencedirect.com/science/article/pii/S0093934X16300323)
