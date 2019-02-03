@@ -28,26 +28,26 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/user2.png
+  - image_path: /assets/images/lmm.jpg
     alt: "mixedmodels"
     title: "Advanced mixed-models with R"
-    excerpt: "add short description"
+    excerpt: "Beginner and advanced workshops on mixed-models in R."
     url: "https://virtualdatalab.github.io/teaching/workshopmixedmodels/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/user2.png
+  - image_path: /assets/images/GRADElogo.png
     alt: "open science workshops"
     title: "Open Science Workshops"
-    excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/teaching/workshopopenscience/"
-    btn_label: "Read More"
+    excerpt: "Open and reproducible neuroscience using python."
+    url: "https://openreproneuro2018frankfurt.github.io/"
+    btn_label: "For example..."
     btn_class: "btn--primary"
-  - image_path: /assets/images/user2.png
+  - image_path: /assets/images/fopsi.png
     alt: "open lectures"
-    title: "Open lectures"
-    excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/teaching/openlectures/"
-    btn_label: "Read More"
+    title: "Initiatives"
+    excerpt: "Organizers, lecturers, and moderators of public lectures/debates with non-scientists. Topics included: AI, scientific process/theory, ethics in science. e.g., Open Science Day, Resurrecting Political Activism, Co-founders of Frankfurt Open Science Initiative."
+    url: "https://open-science-frankfurt.github.io/"
+    btn_label: "For example..."
     btn_class: "btn--primary"
 ---
 
