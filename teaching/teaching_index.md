@@ -6,7 +6,7 @@ header:
 permalink: /teaching/
 author_profile: false
 feature_row:
-  - image_path: /assets/images/wikimedia.png
+  - image_path: /assets/images/wikimedia.jpg
     alt: "smobsc"
     title: "Scientific Methods for Open Behavioral, Social and Cognitive Sciences"
     excerpt: "Open and collaborative methods book funded by WikiMedia."
