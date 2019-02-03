@@ -6,25 +6,25 @@ header:
 permalink: /teaching/
 author_profile: false
 feature_row:
-  - image_path: /assets/images/user2.png
+  - image_path: /assets/images/wikimedia.png
     alt: "smobsc"
     title: "Scientific Methods for Open Behavioral, Social and Cognitive Sciences"
-    excerpt: " bla bla what this is about bla bla ksdugvksvgksjgvksfgjksagvkjdavkjdavbfkjk"
-    url: "https://virtualdatalab.github.io/teaching/smobsc/"
+    excerpt: "Open and collaborative methods book funded by WikiMedia."
+    url: "https://smobsc.readthedocs.io/en/latest/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/user2.png
+  - image_path: /assets/images/mne_logo.png
     alt: "MNE Python"
     title: "Core contributions to MNE-Python"
-    excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/teaching/mnepython/"
+    excerpt: "Open-source Python software for exploring, visualizing, and analyzing human neurophysiological data."
+    url: "https://mne-tools.github.io/stable/index.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/user2.png
+  - image_path: /assets/images/eyEdu.png
     alt: "eyEdu"
     title: "eyEdu"
-    excerpt: "add short description"
-    url: "https://virtualdatalab.github.io/teaching/eyEdu/"
+    excerpt: "R library for teaching analyzing and visualizing eye tracking data."
+    url: "https://github.com/SebastianKorinth/eyEdu"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
@@ -53,7 +53,7 @@ feature_row2:
 
 # Teaching
 
-add some words here?
+We try to carve out as much as possible of our time for various workshops, resources and initiatives.
 
 {% include feature_row %}
 
