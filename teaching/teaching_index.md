@@ -28,7 +28,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/lmm.jpg
+  - image_path: /assets/images/lmm.png
     alt: "mixedmodels"
     title: "Advanced mixed-models with R"
     excerpt: "Beginner and advanced workshops on mixed-models in R."
@@ -53,7 +53,7 @@ feature_row2:
 
 # Teaching
 
-We try to carve out as much as possible of our time for various workshops, resources and initiatives.
+We try to carve out as much time as possible of various workshops, resources and initiatives.
 
 {% include feature_row %}
 
