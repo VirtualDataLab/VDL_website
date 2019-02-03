@@ -32,9 +32,9 @@ feature_row2:
     alt: "mixedmodels"
     title: "Advanced mixed-models with R"
     excerpt: "Beginner and advanced workshops on mixed-models in R."
-    url: "https://virtualdatalab.github.io/teaching/workshopmixedmodels/"
-    #btn_label: "Read More"
-    #btn_class: "btn--primary"
+    url: "https://virtualdatalab.github.io/teaching/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/GRADElogo.png
     alt: "open science workshops"
     title: "Open Science Workshops"
