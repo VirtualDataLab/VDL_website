@@ -28,7 +28,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/lmm.PNG
+  - image_path: /assets/images/lmm.jpg
     alt: "mixedmodels"
     title: "Advanced mixed-models with R"
     excerpt: "Beginner and advanced workshops on mixed-models in R."
