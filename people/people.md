@@ -28,7 +28,7 @@ author_profile: false
 
 ##### Aylin Kallmayer
 
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Aylin_Kallmayer.png?raw=true) { width: 240px; height: 240px } | Aylin is contributing from the [Scene Grammar Lab](https://www.scenegrammarlab.com/people/) @ GU Frankfurt|
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Aylin_Kallmayer.png?raw=true)  | Aylin is contributing from the [Scene Grammar Lab](https://www.scenegrammarlab.com/people/) @ GU Frankfurt|
 
 ##### Leah Kumle
 
@@ -46,4 +46,4 @@ author_profile: false
 
 ##### Martin Schulze
 
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/tree/master/assets/Martin_Schulze.png?raw=true) | More about Martin [here](https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/psymeth/mitarbeiter_ehemalige/schultze/index.html)|
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Martin_Schulze.png?raw=true) | More about Martin [here](https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/psymeth/mitarbeiter_ehemalige/schultze/index.html)|
