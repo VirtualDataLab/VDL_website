@@ -53,7 +53,7 @@ feature_row2:
 
 # Teaching
 
-We try to carve out as much time as possible of various workshops, resources and initiatives.
+We try to carve out as much time as possible for various workshops, resources and initiatives.
 
 {% include feature_row %}
 

@@ -28,7 +28,7 @@ author_profile: false
 
 ##### Aylin Kallmayer
 
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Aylin_Kallmayer.png?raw=true)  | Aylin is contributing from the [Scene Grammar Lab](https://www.scenegrammarlab.com/people/) @ GU Frankfurt|
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Aylin_Kallmayer.png?raw=true)  | Aylin is contributing from the [Scene Grammar Lab](https://www.scenegrammarlab.com/people/) @ GU Frankfurt.|
 
 ##### Leah Kumle
 
