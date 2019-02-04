@@ -45,7 +45,7 @@ feature_row2:
   - image_path: /assets/images/fopsi.png
     alt: "open lectures"
     title: "Initiatives"
-    excerpt: "Organizers, lecturers, and moderators of public lectures/debates with non-scientists. Topics included: AI, scientific process/theory, ethics in science. e.g., Open Science Day, Resurrecting Political Activism, Co-founders of Frankfurt Open Science Initiative."
+    excerpt: "Organizers, lecturers, and moderators of public lectures/debates with non-scientists. Topics include: AI, scientific process/theory, ethics in science. e.g., Open Science Day, Resurrecting Political Activism, etc. Co-founded the Frankfurt Open Science Initiative."
     url: "https://open-science-frankfurt.github.io/"
     btn_label: "For example..."
     btn_class: "btn--primary"
