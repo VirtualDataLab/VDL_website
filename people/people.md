@@ -44,6 +44,6 @@ author_profile: false
 
 | ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Sage_Boettcher.png?raw=true) | Sage is part of the Brain and Cognition Lab @ University of Oxford. More about her [here.](https://sageboettcher.jimdo.com/)|
 
-##### Martin Schulze
+##### Martin Schultze
 
 | ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Martin_Schulze.png?raw=true) | More about Martin [here](https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/psymeth/mitarbeiter_ehemalige/schultze/index.html)|
