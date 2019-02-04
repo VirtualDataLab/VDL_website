@@ -13,12 +13,12 @@ author_profile: false
 
 ##### Dejan Draschkow
 
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/tree/master/assets/dejan_draschkow.png?raw=true) | Dejan is currently working at the Brain and Cognition Lab @ University of Oxford. Find out more [here.](https://www.draschkow.com/)|
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/dejan_draschkow.png?raw=true) | Dejan is currently working at the Brain and Cognition Lab @ University of Oxford. Find out more [here.](https://www.draschkow.com/)|
 
 
 ##### Jona Sassenhagen
 
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/tree/master/assets/Jona_Sassenhagen.png?raw=true) | Jona is currently working at the Goethe-University Frankfurt. Find out just a bit more [here.](https://jona-sassenhagen.github.io/cv/)|
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Jona_Sassenhagen.png?raw=true) | Jona is currently working at the Goethe-University Frankfurt. Find out just a bit more [here.](https://jona-sassenhagen.github.io/cv/)|
 
 &nbsp;
 &nbsp;
@@ -26,13 +26,13 @@ author_profile: false
 
 ### Members
 
-##### Leah Kumle
-
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/tree/master/assets/Leah_Kumle.png?raw=true) | At the moment, Leah is based at the University of New South Wales in Sydney. More about her [here.](https://lkumle.github.io/vitae/)|
-
 ##### Aylin Kallmayer
 
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/tree/master/assets/Aylin_Kallmayer.png?raw=true) | Aylin is contributing from the [Scene Grammar Lab](https://www.scenegrammarlab.com/people/) @ GU Frankfurt|
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Aylin_Kallmayer.png?raw=true) { width: 240px; height: 240px } | Aylin is contributing from the [Scene Grammar Lab](https://www.scenegrammarlab.com/people/) @ GU Frankfurt|
+
+##### Leah Kumle
+
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Leah_Kumle.png?raw=true) | At the moment, Leah is based at the University of New South Wales in Sydney. More about her [here.](https://lkumle.github.io/vitae/)|
 
 &nbsp;
 &nbsp;
@@ -42,7 +42,7 @@ author_profile: false
 
 ##### Sage Boettcher
 
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/tree/master/assets/Sage_Boettcher.png?raw=true) | Sage is part of the Brain and Cognition Lab @ University of Oxford. More about her [here.](https://sageboettcher.jimdo.com/)|
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Sage_Boettcher.png?raw=true) | Sage is part of the Brain and Cognition Lab @ University of Oxford. More about her [here.](https://sageboettcher.jimdo.com/)|
 
 ##### Martin Schulze
 
