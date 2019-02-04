@@ -46,4 +46,4 @@ author_profile: false
 
 ##### Martin Schultze
 
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Martin_Schulze.png?raw=true) | More about Martin [here](https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/psymeth/mitarbeiter_ehemalige/schultze/index.html)|
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Martin_Schulze.png?raw=true) | More about Martin [here.](https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/psymeth/mitarbeiter_ehemalige/schultze/index.html)|
