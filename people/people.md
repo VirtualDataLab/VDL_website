@@ -18,7 +18,7 @@ author_profile: false
 
 ##### Peer Herholz
 
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Peer_Herholz.png?raw=true) | Peer is affiliated with the Laboratory for Multimodal Neuroimaging (LMN) @ Philipps-University Marburg and International Laboratory for Brain, Music and Sound Research (BRAMS) @ Universit?? de Montr??al & McGill University. Find out more [here.](https://peerherholz.github.io/)|
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Peer_Herholz.png?raw=true) | Peer is affiliated with the Laboratory for Multimodal Neuroimaging (LMN) @ Philipps-University Marburg and International Laboratory for Brain, Music and Sound Research (BRAMS) @ Universite de Montreal & McGill University. Find out more [here.](https://peerherholz.github.io/)|
 
 
 ##### Jona Sassenhagen
