@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Resources"
+    url: /resources/
   - title: "People"
     url: /people/
   # - title: "Sample Collections"
