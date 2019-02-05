@@ -13,11 +13,11 @@ feature_row:
     url: "https://smobsc.readthedocs.io/en/latest/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/mne_logo.png
-    alt: "MNE Python"
-    title: "Core contributions to MNE-Python"
-    excerpt: "Open-source Python software for exploring, visualizing, and analyzing human neurophysiological data."
-    url: "https://mne-tools.github.io/stable/index.html"
+  - image_path: /assets/images/lmm.png
+    alt: "mixedmodels"
+    title: "Advanced mixed-models with R"
+    excerpt: "Beginner and advanced workshops on mixed-models in R."
+    url: "https://virtualdatalab.github.io/teaching/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/eyEdu.png
@@ -28,13 +28,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/lmm.jpg
-    alt: "mixedmodels"
-    title: "Advanced mixed-models with R"
-    excerpt: "Beginner and advanced workshops on mixed-models in R."
-    url: "https://virtualdatalab.github.io/teaching/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/GRADElogo.png
     alt: "open science workshops"
     title: "Open Science Workshops"
@@ -42,12 +35,19 @@ feature_row2:
     url: "https://openreproneuro2018frankfurt.github.io/"
     btn_label: "For example..."
     btn_class: "btn--primary"
-  - image_path: /assets/images/fopsi.png
-    alt: "open lectures"
-    title: "Initiatives"
-    excerpt: "Organizers, lecturers, and moderators of public lectures/debates with non-scientists. Topics include: AI, scientific process/theory, ethics in science. e.g., Open Science Day, Resurrecting Political Activism, etc. Co-founded the Frankfurt Open Science Initiative."
-    url: "https://open-science-frankfurt.github.io/"
-    btn_label: "For example..."
+  - image_path: /assets/images/wikimedia.jpg
+    alt: "ALPACA"
+    title: "Automated Labelling and Parcellation of Auditory Cortex Areas"
+    excerpt: "Teaching resources funded by Wikimedia."
+    url: "https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/ALPACA_???_Automated_Labelling_and_Parcellation_of_Auditory_Cortex_Areas"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/openradio.png
+    alt: "Open Science Radio"
+    title: "Open Science Radio"
+    excerpt: "Podcast episode about Peer Herholz's Fellow-Program."
+    url: "http://www.openscienceradio.org/2018/04/18/osr121-fellow-programm-katja-mayer-und-peer-herholz-wmde-de/"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
