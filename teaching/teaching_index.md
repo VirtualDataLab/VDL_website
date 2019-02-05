@@ -13,7 +13,7 @@ feature_row:
     url: "https://smobsc.readthedocs.io/en/latest/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/lmm.png
+  - image_path: /assets/images/lmm.PNG
     alt: "mixedmodels"
     title: "Advanced mixed-models with R"
     excerpt: "Beginner and advanced workshops on mixed-models in R."
