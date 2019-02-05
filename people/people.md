@@ -15,15 +15,13 @@ author_profile: false
 
 | ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/dejan_draschkow.png?raw=true) | Dejan is currently working at the Brain and Cognition Lab @ University of Oxford. Find out more [here.](https://www.draschkow.com/)|
 
-
-##### Peer Herholz
-
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Peer_Herholz.png?raw=true) | Peer is affiliated with the Laboratory for Multimodal Neuroimaging (LMN) @ Philipps-University Marburg and International Laboratory for Brain, Music and Sound Research (BRAMS) @ Universite de Montreal & McGill University. Find out more [here.](https://peerherholz.github.io/)|
-
-
 ##### Jona Sassenhagen
 
 | ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Jona_Sassenhagen.png?raw=true) | Jona is currently working at the Goethe-University Frankfurt. Find out just a bit more [here.](https://jona-sassenhagen.github.io/cv/)|
+
+##### Peer Herholz
+
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Peer_Herholz.png?raw=true) | Peer is split between Philipps-University Marburg & McGill University in Montreal. Find out more [here.](https://peerherholz.github.io/)|
 
 &nbsp;
 &nbsp;
