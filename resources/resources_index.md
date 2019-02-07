@@ -22,7 +22,7 @@ feature_row:
     [URIAL](https://github.com/PeerHerholz/URIAL) - a toolbox for representational similarity analysis in python"
   - image_path: /assets/images/lmm.PNG
     alt: "Mixedpower"
-    title: "Calculating power"
+    title: "Mixedpower"
     excerpt: "An R package for simulation based estimates of power in generalized linear mixed models."
     url: "https://github.com/DejanDraschkow/mixedpower"
     btn_label: "Read More"
