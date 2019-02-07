@@ -17,9 +17,6 @@ feature_row:
     alt: "mixedmodels"
     title: "Advanced mixed-models with R"
     excerpt: "Beginner and advanced workshops on mixed-models in R."
-    url: "https://virtualdatalab.github.io/teaching/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/eyEdu.png
     alt: "eyEdu"
     title: "eyEdu"
@@ -39,7 +36,7 @@ feature_row2:
     alt: "ALPACA"
     title: "Automated Labelling and Parcellation of Auditory Cortex Areas"
     excerpt: "Teaching resources funded by Wikimedia."
-    url: "https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/ALPACA_???_Automated_Labelling_and_Parcellation_of_Auditory_Cortex_Areas"
+    url: "https://github.com/C0C0AN/ALPACA/tree/master/resources/tutorials"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/openradio.png

@@ -17,7 +17,7 @@ distributed-lags model). It identifies neural correlates of linguistic processes
 temporal interdependencies – simultaneously for, e.g. acoustics, phonology and semantics. This
 has resulted in impactful discoveries about how brains process coherent speech, potentially
 broadening the class of phenomena that can be studied."
-    url: "https://virtualdatalab.github.io/research/"
+    url: "https://www.draschkow.com/app/download/9808220/How+to+analyse+electrophysiological+responses+to+naturalistic+language+with+time+resolved+multiple+regression.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
@@ -25,7 +25,7 @@ feature_row2:
     alt: "smobsc"
     title: "Using cluster-based permutation tests in cognitive neuroscience."
     excerpt: "Cluster-based permutation tests are a powerful solution to the multiple comparisons problem in EEG and MEG data. We report on extremely common, yet inapplicable interpretations of this procedure, suggesting unwarranted precision of the actual underlying test statistic and leading to strong, but unsubstantiated claims. We investigate problems and common pitfalls of using and interpreting cluster-based permutation tests. Accurate interpretations of cluster-based permutation tests will contribute to the adequate utilization, as well as the popularity, of this powerful method."
-    url: "https://virtualdatalab.github.io/research/"
+    url: "https://www.draschkow.com/app/download/9767211/16267843.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
