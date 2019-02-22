@@ -22,7 +22,7 @@ Gagl, B., & Draschkow, D. (in prep). Extension for eye tracking including gaze p
 
 ## 2019
 
-Sassenhagen, J. & Draschkow, D. (2019). Clusterbased permutation tests of MEG/EEG data do not establish significance of effect latency or location. _Psychophysiology_. 2019; e13335. doi: doi.org/10.1111/psyp.13335 [download](https://www.draschkow.com/app/download/9767211/16267843.pdf)
+Sassenhagen, J. & Draschkow, D. (2019). Cluster-based permutation tests of MEG/EEG data do not establish significance of effect latency or location. _Psychophysiology_. 2019; e13335. doi: doi.org/10.1111/psyp.13335 [download](https://www.draschkow.com/app/download/9767211/16267843.pdf)
 
 &nbsp;
 &nbsp;
