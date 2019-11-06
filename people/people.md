@@ -21,7 +21,7 @@ author_profile: false
 
 ##### Peer Herholz
 
-| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Peer_Herholz.png?raw=true) | Peer is split between Philipps-University Marburg & McGill University in Montreal. Find out more [here.](https://peerherholz.github.io/)|
+| ![image-title-here](https://github.com/VirtualDataLab/VirtualDataLab.github.io/blob/master/assets/images/Peer_Herholz.png?raw=true) | Peer is currently working at the Montréal Institute & Hospital @ McGill University in Montréal. Find out more [here.](https://peerherholz.github.io/)|
 
 &nbsp;
 &nbsp;
