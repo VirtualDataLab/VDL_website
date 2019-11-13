@@ -9,8 +9,6 @@ author_profile: false
 ---
 
 ## In Preparartion
-Sassenhagen, J. & Draschkow, D. (in prep). Uncovering commonalities between concept representations in vision and language with convolutional deep neural networks.
-
 
 Gagl, B., & Draschkow, D. (in prep). Extension for eye tracking including gaze position and pupil size of the brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments. [check out the existing BIDS](http://bids.neuroimaging.io/)
 
