@@ -8,7 +8,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-## In Preparartion
+## in prep
 
 Gagl, B., & Draschkow, D. (in prep). Extension for eye tracking including gaze position and pupil size of the brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments. [check out the existing BIDS](http://bids.neuroimaging.io/)
 
