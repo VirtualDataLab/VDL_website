@@ -18,6 +18,18 @@ Gagl, B., & Draschkow, D. (in prep). Extension for eye tracking including gaze p
 &nbsp;
 &nbsp;
 
+## 2020
+
+Sauter, M., Draschkow, D., & Mack, W. (2020, March 26). Building, hosting, recruiting: A brief introduction to running behavioral experiments online. https://doi.org/10.31234/osf.io/tr76d [preprint](https://psyarxiv.com/tr76d/)
+
+Kumle, L., Vo, M. L., & Draschkow, D. (2020, April 8). Estimating power in (generalized) linear mixed models: an open introduction and tutorial in R. https://doi.org/10.31234/osf.io/vxfbh [preprint](https://psyarxiv.com/vxfbh/)
+
+Kallmayer, M., Zacharias, L., Nobre, A.C., & Draschkow, D. (2020). Introduction to Online Experiments. https://doi.org/10.17605/OSF.IO/XFWHB [resources](https://online-ws.readthedocs.io/en/latest/)
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 ## 2019
 
 Kent, J. & Herholz, P. (2019). NiBetaSeries: task related correlations in fMRI.
