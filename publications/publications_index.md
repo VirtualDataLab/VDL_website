@@ -20,7 +20,7 @@ Gagl, B., & Draschkow, D. (in prep). Extension for eye tracking including gaze p
 
 ## 2020
 
-Sauter, M., Draschkow, D., & Mack, W. (2020). Building, Hosting and Recruiting: A Brief Introduction to Running Behavioral Experiments Online. Brain Sciences, Vol. 10, Page 251, 10(4), 251. [https://doi.org/10.3390/BRAINSCI10040251](https://www.mdpi.com/2076-3425/10/4/251)
+Sauter, M., Draschkow, D., & Mack, W. (2020). Building, Hosting and Recruiting: A Brief Introduction to Running Behavioral Experiments Online. _Brain Sciences_, Vol. 10, Page 251, 10(4), 251. [https://doi.org/10.3390/BRAINSCI10040251](https://www.mdpi.com/2076-3425/10/4/251)
 
 Kumle, L., Vo, M. L., & Draschkow, D. (2020, April 8). Estimating power in (generalized) linear mixed models: an open introduction and tutorial in R. https://doi.org/10.31234/osf.io/vxfbh [preprint](https://psyarxiv.com/vxfbh/)
 
